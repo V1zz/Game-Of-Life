@@ -1,0 +1,7 @@
+﻿////
+
+Create app logic	- part 1:	https://www.youtube.com/watch?v=GvoHxaW82G0
+
+Refactoring			- part 2:	https://www.youtube.com/watch?v=zzoxt6f5ubo
+
+Porting on console	- part 3:	https://www.youtube.com/watch?v=fosazApA96E
