@@ -2,7 +2,7 @@
 
 This is one of my old projects on this topic, which I am going to develop on a more or less civilian level and modern technology. So soon something new!)))
 
-The project was built on the 4.8 framework, forms and MVVM patterns. The implementation is not neat, but it functions and has additional features:
+The project was built on the .NET Framework 4.8, Windows Forms and MVVM patterns. The implementation is not neat, but it functions and has additional features:
 
      - Choice of cell size from 2 pixels;
      - Selection of the density of the basic generation of cells on the field;
